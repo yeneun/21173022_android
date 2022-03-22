@@ -1,5 +1,5 @@
 # 2주차(2022-03-15)
-- 
+<img width="" height="" src="./pic/2st.jpg"> </img>
 
 # 3주차(2022-03-22)
 <img width="" height="" src="./pic/1.PNG"> </img>
