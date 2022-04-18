@@ -16,7 +16,7 @@
 <img width="" height="" src="./pic/5st_4.PNG"> </img>
 
 # 6주차(2022-04-18)
-<img width="" height="" src="./pic/넓이.JPG"> </img>
-<img width="" height="" src="./pic/높이.JPG"> </img>
-<img width="" height="" src="./pic/6st_과제.JPG"> </img>
+<img width="" height="" src="./pic/넓이.jpg"> </img>
+<img width="" height="" src="./pic/높이.jpg"> </img>
+<img width="" height="" src="./pic/6st_과제.jpg"> </img>
 
