@@ -25,7 +25,7 @@
 <img width="" height="" src="./pic/10st_2.JPG"> </img>
 
 # 11주차(2022-05-17)
-<img width="" height="" src="./pic/11st.PNG"> </img>
-<img width="" height="" src="./pic/11st_1.PNG"> </img>
-<img width="" height="" src="./pic/11st_2.PNG"> </img>
-<img width="" height="" src="./pic/11st_2_1.PNG"> </img>
+<img width="" height="" src="./pic/11st.JPG"> </img>
+<img width="" height="" src="./pic/11st_1.JPG"> </img>
+<img width="" height="" src="./pic/11st_2.JPG"> </img>
+<img width="" height="" src="./pic/11st_2_1.JPG"> </img>
