@@ -21,5 +21,5 @@
 <img width="" height="" src="./pic/6st_과제.jpg"> </img>
 
 ## 10주차(2022-05-10)
-<img width="" height="" src="./pic/10st_1.jpg"> </img>
-<img width="" height="" src="./pic/10st_2.jpg"> </img>
+<img width="" height="" src="./pic/10st_1.JPG"> </img>
+<img width="" height="" src="./pic/10st_2.JPG"> </img>
